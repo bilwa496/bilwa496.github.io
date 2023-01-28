@@ -20,7 +20,7 @@ description: A simple & humble soul, seeking the bliss of Infinite Knowledge & S
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "About Me"
+  About Me: "aboutme"
   Resources:
     - My Medium Blog: "https://medium.com/@f2015020"
     - My Wordpress Blog: "https://bilwasiva.wordpress.com/"
