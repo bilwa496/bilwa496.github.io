@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Apache Kafka
+title: Unlocking the Power of Real-time Data Streaming with Apache Kafka
+image: /img/apache-kafka.png
+published: true
 ---
 
 80% of the Fortune 100 companies use Apache Kafka for some use case or other. Let's see how it works
