@@ -64,7 +64,12 @@ footer-link-col: "#404040"
 author:
   name: Bilwasiva Basu Mallick
 
-
+social-network-links:
+  email: "bilwa496.senior.ml.scientist@gmail.com"
+  linkedin: bilwasiva
+  github: bilwa496
+  twitter: bilwasiva
+  
 # Select which share links to show in posts
 share-links-active:
   twitter: true 
