@@ -24,8 +24,6 @@ navbar-links:
   Resources:
     - My Medium Blogl: "https://medium.com/@f2015020"
     - My Wordpress Blog: "https://bilwasiva.wordpress.com/"
-  Resume: "https://drive.google.com/file/d/1yQnMmR5Y7-MK-S-UNNdtIey62S8aRHCC/view?usp=sharing"
-  My Projects: "https://github.com/bilwa496"
   Author's home: "https://bilwa496.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
