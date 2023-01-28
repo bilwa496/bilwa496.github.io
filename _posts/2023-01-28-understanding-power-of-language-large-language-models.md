@@ -1,7 +1,8 @@
 ---
 layout: post
-published: false
 title: Understanding power of Language- Large Language Models
+image: /img/llm.jpg
+published: true
 ---
 
 ## Introduction
