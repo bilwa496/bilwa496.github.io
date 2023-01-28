@@ -27,6 +27,4 @@ These following qualities define me:
 
 Have a look at my portfolio and blogs/ Feel free to navigate through my technological & creative musings at [my blog](https://bilwasiva.wordpress.com/) and it will quench **all** your curiosities.
 
-### note for Recruiters & Engineering Managers-
-For any Senior/Lead Machine Learning Scientist, Applied Scientist, Research Scientist, Data Scientist openings in your team, reach out to me in [LinkedIn](https://linkedin.com/in/bilwasiva) or drop a message to my [email](mailto:bilwa496.senior.ml.scientist@gmail.com)
-I am also open to SDE roles as well involving Machine Learning based work.
+
