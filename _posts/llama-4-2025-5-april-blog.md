@@ -1,3 +1,10 @@
+---
+layout: post
+title: Llama 4: A New Era of Natively Multimodal AI Innovation
+image: /img/67f20b94f05fc.png
+published: true
+---
+
 # Llama 4: A New Era of Natively Multimodal AI Innovation  
 *April 5, 2025*  
 12-minute read  
