@@ -40,15 +40,15 @@ avatar: "/img/bio-photo.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#1E8F80"  # Aqua Sea Green navbar
+navbar-col: "#2196F3"
 navbar-text-col: "#FFFFFF"
 navbar-children-col: "#1E1E1E"
-page-col: "#E0F2F1"  # Light Aqua Sea Green for the page background
+page-col: "#F5F5F5"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#00796B"  # Deep Aqua Sea Green for the footer
-footer-text-col: "#FFFFFF"
-footer-link-col: "#FFFFFF"
+footer-col: "#800080"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
