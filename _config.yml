@@ -10,7 +10,7 @@ description: A simple & humble soul, seeking the bliss of Infinite Knowledge & S
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
-# url is the the website domain URL without a trailing slash
+# url is the website domain URL without a trailing slash
 #url: "https://example.com"
 
 # baseurl should be an empty string
@@ -40,25 +40,15 @@ avatar: "/img/bio-photo.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-# navbar-col: "#F5F5F5"
-# navbar-text-col: "#404040"
-# navbar-children-col: "#F5F5F5"
-# page-col: "#FFFFFF"
-# link-col: "#008AFF"
-# hover-col: "#0085A1"
-# footer-col: "#F5F5F5"
-# footer-text-col: "#777777"
-# footer-link-col: "#404040"
-
-navbar-col: "#2196F3"
+navbar-col: "#1E8F80"  # Aqua Sea Green navbar
 navbar-text-col: "#FFFFFF"
 navbar-children-col: "#1E1E1E"
-page-col: "#F5F5F5"
+page-col: "#E0F2F1"  # Light Aqua Sea Green for the page background
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "800080"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-col: "#00796B"  # Deep Aqua Sea Green for the footer
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
